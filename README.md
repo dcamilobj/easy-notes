@@ -1,1 +1,1 @@
-"#Simple note takin app using Spring Boot" 
+# Simple note takin app using Spring Boot
