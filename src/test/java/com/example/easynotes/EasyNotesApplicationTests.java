@@ -1,4 +1,4 @@
-package com.example.easynotes.easynotes;
+package com.example.easynotes;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
